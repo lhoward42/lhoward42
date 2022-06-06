@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @lhoward42
-- 👀 I’m interested in building web based applications
-- 🌱 I’m currently learning HTML5, CSS3, and Javascript
+- 👋 Hi, I’m Web Dev Laurice
+- 👀 I build API-integrated full-stack web-based application using PERN and ReactJS  
+- 🌱 I’m currently learning Adobe Suite Apps and am comfortable with Photoshop
 - 📫 How to reach me webdevlaurice@gmail.com
 
 <!---
